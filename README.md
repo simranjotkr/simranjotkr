@@ -8,7 +8,7 @@ looking for opportunities to learn and master the technical skills acquired in c
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Operating System-Windows-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/OperatingSystem-Windows-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
