@@ -1,6 +1,6 @@
 [![Header](./assets/GithubBanner.png "Header")](https://github.com/simranjotkr/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/simranjotkr/)
-[![Behance Badge](https://img.shields.io/badge/Behance-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.behance.com/in/simranjotkr/)
+[![Behance Badge](https://img.shields.io/badge/Behance-Profile-informational?style=flat&logo=behance&logoColor=white&color=0D76A8)](https://www.behance.com/in/simranjotkr/)
 
 ### Hey there 👋
 
