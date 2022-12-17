@@ -55,3 +55,5 @@ looking for opportunities to learn and master the technical skills acquired in c
 ![](https://img.shields.io/badge/GraphicDesiging-Adobe_Photoshop-informational?style=flat&logo=Adobe_Photoshop&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/GraphicDesiging-Wondershare_Filmora-informational?style=flat&logo=Wondershare_Filmora&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/GraphicDesiging-Coral_Draw-informational?style=flat&logo=Coral_draw&logoColor=white&color=4AB197)
+
+**Page Views**(Counting since 16th Dec 2022): ![Visitor Count](https://profile-counter.glitch.me/atapas/count.svg)
