@@ -7,19 +7,6 @@
 I'm Simranjot, an enthusiastic and motivated Software Engineering post-grad student at Humber College,
 looking for opportunities to learn and master the technical skills acquired in classroom. Having 4+ years of professional in developing Web-based enterprise applications using cutting-edge technologies whilst gaining working knowledge of SDLC, Agile methodologies, Service Oriented Architectures, Web services and more.
 
-
-## &#x1f4c8; GitHub Stats
-
-<br>
-
-<a href="https://github.com/simranjotkr">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simranjotkr&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/simranjotkr">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=simranjotkr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
-
 <br>
 <br>
 
