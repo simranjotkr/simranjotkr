@@ -7,9 +7,6 @@
 I'm Simranjot, an enthusiastic and motivated Software Engineering post-grad student at Humber College,
 looking for opportunities to learn and master the technical skills acquired in classroom. Having 4+ years of professional in developing Web-based enterprise applications using cutting-edge technologies whilst gaining working knowledge of SDLC, Agile methodologies, Service Oriented Architectures, Web services and more.
 
-<br>
-<br>
-
 ## 💼 Skills
 <!--Operating Systems -->
 ![](https://img.shields.io/badge/OperatingSystem-Windows-informational?style=flat&logo=Windows&logoColor=white&color=4AB197)
